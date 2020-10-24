@@ -1,0 +1,21 @@
+{
+    "name": "daman05/composer-example-package",
+    "description": "Example project",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Roman Vyatkin",
+            "email": "daman05@mail.ru"
+        }
+    ],
+    "autoload": {
+        "par-4": {
+            "daman05\\parser\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
