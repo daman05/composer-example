@@ -12,10 +12,5 @@
             "email": "daman05@mail.ru"
         }
     ],
-    "autoload": {
-        "par-4": {
-            "daman05\\parser\\": "src/"
-        }
-    },
     "minimum-stability": "stable"
 }
